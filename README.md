@@ -21,7 +21,7 @@ I am using -
 
 - Run the python server in demo project.
   ```
-  python3 -m http.runserver
+  python3 -m http.server
   ```
   
 Now you are good to go, open the console at 8000 port in your browser and see your checkers game running.
