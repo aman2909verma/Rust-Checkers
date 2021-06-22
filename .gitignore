@@ -1,0 +1,8 @@
+#target folder
+/target
+
+#idea folder
+/.idea
+
+#toml file
+Cargo.toml
